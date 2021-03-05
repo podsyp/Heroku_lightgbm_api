@@ -1,0 +1,3 @@
+# https://www.pluralsight.com/tech-blog/porting-flask-to-fastapi-for-ml-model-serving/
+# https://www.geeksforgeeks.org/deploying-ml-models-as-api-using-fastapi/
+# https://analyticsindiamag.com/complete-hands-on-guide-to-fastapi-with-machine-learning-deployment/
